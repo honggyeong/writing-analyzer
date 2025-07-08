@@ -95,5 +95,3 @@ writing-analyzer/
 ---
 
 **만든 사람**: honggyeong  
-**버전**: 1.0.0  
-**만든 날**: 2024년 
